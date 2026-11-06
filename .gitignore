@@ -1,0 +1,17 @@
+# Віртуальне середовище Python
+venv/
+
+# Папки з даними та результатами генерації (вони створюються скриптом за SEED)
+data/
+figures/
+my_photos/
+
+# Службові файли та кеш
+__pycache__/
+.ipynb_checkpoints/
+results.csv
+*.pyc
+
+# Операційні системи
+.DS_Store
+Thumbs.db
