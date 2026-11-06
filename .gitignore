@@ -1,16 +1,17 @@
 # Віртуальне середовище Python
 venv/
 
-# Папки з даними та результатами генерації (вони створюються скриптом за SEED)
-data/
-figures/
-my_photos/
-
 # Службові файли та кеш
 __pycache__/
 .ipynb_checkpoints/
 results.csv
 *.pyc
+
+# Ігноруємо важкі згенеровані картинки всередині data,
+# але залишаємо відкритим файл ground_truth.csv
+data/*.png
+data/*.jpg
+data/*.jpeg
 
 # Операційні системи
 .DS_Store

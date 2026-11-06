@@ -1,0 +1,281 @@
+id,level,path,gt,font
+0,1,data/000_motion_blur_1.png,"Він ліг у ліжко, проте сон довго не приходив.",arial.ttf
+0,3,data/000_motion_blur_3.png,"Він ліг у ліжко, проте сон довго не приходив.",arial.ttf
+0,5,data/000_motion_blur_5.png,"Він ліг у ліжко, проте сон довго не приходив.",arial.ttf
+0,7,data/000_motion_blur_7.png,"Він ліг у ліжко, проте сон довго не приходив.",arial.ttf
+0,9,data/000_motion_blur_9.png,"Він ліг у ліжко, проте сон довго не приходив.",arial.ttf
+0,11,data/000_motion_blur_11.png,"Він ліг у ліжко, проте сон довго не приходив.",arial.ttf
+0,15,data/000_motion_blur_15.png,"Він ліг у ліжко, проте сон довго не приходив.",arial.ttf
+1,1,data/001_motion_blur_1.png,Холодний осінній вітер війнув йому в обличчя.,times.ttf
+1,3,data/001_motion_blur_3.png,Холодний осінній вітер війнув йому в обличчя.,times.ttf
+1,5,data/001_motion_blur_5.png,Холодний осінній вітер війнув йому в обличчя.,times.ttf
+1,7,data/001_motion_blur_7.png,Холодний осінній вітер війнув йому в обличчя.,times.ttf
+1,9,data/001_motion_blur_9.png,Холодний осінній вітер війнув йому в обличчя.,times.ttf
+1,11,data/001_motion_blur_11.png,Холодний осінній вітер війнув йому в обличчя.,times.ttf
+1,15,data/001_motion_blur_15.png,Холодний осінній вітер війнув йому в обличчя.,times.ttf
+2,1,data/002_motion_blur_1.png,Поїзд стишив хід і наблизився до станції.,calibri.ttf
+2,3,data/002_motion_blur_3.png,Поїзд стишив хід і наблизився до станції.,calibri.ttf
+2,5,data/002_motion_blur_5.png,Поїзд стишив хід і наблизився до станції.,calibri.ttf
+2,7,data/002_motion_blur_7.png,Поїзд стишив хід і наблизився до станції.,calibri.ttf
+2,9,data/002_motion_blur_9.png,Поїзд стишив хід і наблизився до станції.,calibri.ttf
+2,11,data/002_motion_blur_11.png,Поїзд стишив хід і наблизився до станції.,calibri.ttf
+2,15,data/002_motion_blur_15.png,Поїзд стишив хід і наблизився до станції.,calibri.ttf
+3,1,data/003_motion_blur_1.png,"Селяни везли возами збіжжя, городину та дерево.",georgia.ttf
+3,3,data/003_motion_blur_3.png,"Селяни везли возами збіжжя, городину та дерево.",georgia.ttf
+3,5,data/003_motion_blur_5.png,"Селяни везли возами збіжжя, городину та дерево.",georgia.ttf
+3,7,data/003_motion_blur_7.png,"Селяни везли возами збіжжя, городину та дерево.",georgia.ttf
+3,9,data/003_motion_blur_9.png,"Селяни везли возами збіжжя, городину та дерево.",georgia.ttf
+3,11,data/003_motion_blur_11.png,"Селяни везли возами збіжжя, городину та дерево.",georgia.ttf
+3,15,data/003_motion_blur_15.png,"Селяни везли возами збіжжя, городину та дерево.",georgia.ttf
+4,1,data/004_motion_blur_1.png,"Номер виявився скромним, але чистим і затишним.",arial.ttf
+4,3,data/004_motion_blur_3.png,"Номер виявився скромним, але чистим і затишним.",arial.ttf
+4,5,data/004_motion_blur_5.png,"Номер виявився скромним, але чистим і затишним.",arial.ttf
+4,7,data/004_motion_blur_7.png,"Номер виявився скромним, але чистим і затишним.",arial.ttf
+4,9,data/004_motion_blur_9.png,"Номер виявився скромним, але чистим і затишним.",arial.ttf
+4,11,data/004_motion_blur_11.png,"Номер виявився скромним, але чистим і затишним.",arial.ttf
+4,15,data/004_motion_blur_15.png,"Номер виявився скромним, але чистим і затишним.",arial.ttf
+5,1,data/005_motion_blur_1.png,"Чи зустріне людей, здатних зрозуміти його ідеали?",times.ttf
+5,3,data/005_motion_blur_3.png,"Чи зустріне людей, здатних зрозуміти його ідеали?",times.ttf
+5,5,data/005_motion_blur_5.png,"Чи зустріне людей, здатних зрозуміти його ідеали?",times.ttf
+5,7,data/005_motion_blur_7.png,"Чи зустріне людей, здатних зрозуміти його ідеали?",times.ttf
+5,9,data/005_motion_blur_9.png,"Чи зустріне людей, здатних зрозуміти його ідеали?",times.ttf
+5,11,data/005_motion_blur_11.png,"Чи зустріне людей, здатних зрозуміти його ідеали?",times.ttf
+5,15,data/005_motion_blur_15.png,"Чи зустріне людей, здатних зрозуміти його ідеали?",times.ttf
+6,1,data/006_motion_blur_1.png,Чесна праця завжди залишає тривалий добрий слід.,calibri.ttf
+6,3,data/006_motion_blur_3.png,Чесна праця завжди залишає тривалий добрий слід.,calibri.ttf
+6,5,data/006_motion_blur_5.png,Чесна праця завжди залишає тривалий добрий слід.,calibri.ttf
+6,7,data/006_motion_blur_7.png,Чесна праця завжди залишає тривалий добрий слід.,calibri.ttf
+6,9,data/006_motion_blur_9.png,Чесна праця завжди залишає тривалий добрий слід.,calibri.ttf
+6,11,data/006_motion_blur_11.png,Чесна праця завжди залишає тривалий добрий слід.,calibri.ttf
+6,15,data/006_motion_blur_15.png,Чесна праця завжди залишає тривалий добрий слід.,calibri.ttf
+7,1,data/007_motion_blur_1.png,"Він знав, що боротьба буде важкою і нерівною.",georgia.ttf
+7,3,data/007_motion_blur_3.png,"Він знав, що боротьба буде важкою і нерівною.",georgia.ttf
+7,5,data/007_motion_blur_5.png,"Він знав, що боротьба буде важкою і нерівною.",georgia.ttf
+7,7,data/007_motion_blur_7.png,"Він знав, що боротьба буде важкою і нерівною.",georgia.ttf
+7,9,data/007_motion_blur_9.png,"Він знав, що боротьба буде важкою і нерівною.",georgia.ttf
+7,11,data/007_motion_blur_11.png,"Він знав, що боротьба буде важкою і нерівною.",georgia.ttf
+7,15,data/007_motion_blur_15.png,"Він знав, що боротьба буде важкою і нерівною.",georgia.ttf
+8,1,data/008_motion_blur_1.png,Але молодість не лякається перешкод і труднощів.,arial.ttf
+8,3,data/008_motion_blur_3.png,Але молодість не лякається перешкод і труднощів.,arial.ttf
+8,5,data/008_motion_blur_5.png,Але молодість не лякається перешкод і труднощів.,arial.ttf
+8,7,data/008_motion_blur_7.png,Але молодість не лякається перешкод і труднощів.,arial.ttf
+8,9,data/008_motion_blur_9.png,Але молодість не лякається перешкод і труднощів.,arial.ttf
+8,11,data/008_motion_blur_11.png,Але молодість не лякається перешкод і труднощів.,arial.ttf
+8,15,data/008_motion_blur_15.png,Але молодість не лякається перешкод і труднощів.,arial.ttf
+9,1,data/009_motion_blur_1.png,"Минуле не повертається, але досвід формує характер.",times.ttf
+9,3,data/009_motion_blur_3.png,"Минуле не повертається, але досвід формує характер.",times.ttf
+9,5,data/009_motion_blur_5.png,"Минуле не повертається, але досвід формує характер.",times.ttf
+9,7,data/009_motion_blur_7.png,"Минуле не повертається, але досвід формує характер.",times.ttf
+9,9,data/009_motion_blur_9.png,"Минуле не повертається, але досвід формує характер.",times.ttf
+9,11,data/009_motion_blur_11.png,"Минуле не повертається, але досвід формує характер.",times.ttf
+9,15,data/009_motion_blur_15.png,"Минуле не повертається, але досвід формує характер.",times.ttf
+10,1,data/010_motion_blur_1.png,Він їхав до повітового містечка на посаду адвоката.,calibri.ttf
+10,3,data/010_motion_blur_3.png,Він їхав до повітового містечка на посаду адвоката.,calibri.ttf
+10,5,data/010_motion_blur_5.png,Він їхав до повітового містечка на посаду адвоката.,calibri.ttf
+10,7,data/010_motion_blur_7.png,Він їхав до повітового містечка на посаду адвоката.,calibri.ttf
+10,9,data/010_motion_blur_9.png,Він їхав до повітового містечка на посаду адвоката.,calibri.ttf
+10,11,data/010_motion_blur_11.png,Він їхав до повітового містечка на посаду адвоката.,calibri.ttf
+10,15,data/010_motion_blur_15.png,Він їхав до повітового містечка на посаду адвоката.,calibri.ttf
+11,1,data/011_motion_blur_1.png,Думки роєм снувалися в його молодій голові.,georgia.ttf
+11,3,data/011_motion_blur_3.png,Думки роєм снувалися в його молодій голові.,georgia.ttf
+11,5,data/011_motion_blur_5.png,Думки роєм снувалися в його молодій голові.,georgia.ttf
+11,7,data/011_motion_blur_7.png,Думки роєм снувалися в його молодій голові.,georgia.ttf
+11,9,data/011_motion_blur_9.png,Думки роєм снувалися в його молодій голові.,georgia.ttf
+11,11,data/011_motion_blur_11.png,Думки роєм снувалися в його молодій голові.,georgia.ttf
+11,15,data/011_motion_blur_15.png,Думки роєм снувалися в його молодій голові.,georgia.ttf
+12,1,data/012_motion_blur_1.png,Він хотів бути корисним для простих селян.,arial.ttf
+12,3,data/012_motion_blur_3.png,Він хотів бути корисним для простих селян.,arial.ttf
+12,5,data/012_motion_blur_5.png,Він хотів бути корисним для простих селян.,arial.ttf
+12,7,data/012_motion_blur_7.png,Він хотів бути корисним для простих селян.,arial.ttf
+12,9,data/012_motion_blur_9.png,Він хотів бути корисним для простих селян.,arial.ttf
+12,11,data/012_motion_blur_11.png,Він хотів бути корисним для простих селян.,arial.ttf
+12,15,data/012_motion_blur_15.png,Він хотів бути корисним для простих селян.,arial.ttf
+13,1,data/013_motion_blur_1.png,Попереду були складні судові справи та виклики.,times.ttf
+13,3,data/013_motion_blur_3.png,Попереду були складні судові справи та виклики.,times.ttf
+13,5,data/013_motion_blur_5.png,Попереду були складні судові справи та виклики.,times.ttf
+13,7,data/013_motion_blur_7.png,Попереду були складні судові справи та виклики.,times.ttf
+13,9,data/013_motion_blur_9.png,Попереду були складні судові справи та виклики.,times.ttf
+13,11,data/013_motion_blur_11.png,Попереду були складні судові справи та виклики.,times.ttf
+13,15,data/013_motion_blur_15.png,Попереду були складні судові справи та виклики.,times.ttf
+14,1,data/014_motion_blur_1.png,Місто спало під густим чорним осіннім небом.,calibri.ttf
+14,3,data/014_motion_blur_3.png,Місто спало під густим чорним осіннім небом.,calibri.ttf
+14,5,data/014_motion_blur_5.png,Місто спало під густим чорним осіннім небом.,calibri.ttf
+14,7,data/014_motion_blur_7.png,Місто спало під густим чорним осіннім небом.,calibri.ttf
+14,9,data/014_motion_blur_9.png,Місто спало під густим чорним осіннім небом.,calibri.ttf
+14,11,data/014_motion_blur_11.png,Місто спало під густим чорним осіннім небом.,calibri.ttf
+14,15,data/014_motion_blur_15.png,Місто спало під густим чорним осіннім небом.,calibri.ttf
+15,1,data/015_motion_blur_1.png,Правда і закон мають бути непохитною основою суспільства.,georgia.ttf
+15,3,data/015_motion_blur_3.png,Правда і закон мають бути непохитною основою суспільства.,georgia.ttf
+15,5,data/015_motion_blur_5.png,Правда і закон мають бути непохитною основою суспільства.,georgia.ttf
+15,7,data/015_motion_blur_7.png,Правда і закон мають бути непохитною основою суспільства.,georgia.ttf
+15,9,data/015_motion_blur_9.png,Правда і закон мають бути непохитною основою суспільства.,georgia.ttf
+15,11,data/015_motion_blur_11.png,Правда і закон мають бути непохитною основою суспільства.,georgia.ttf
+15,15,data/015_motion_blur_15.png,Правда і закон мають бути непохитною основою суспільства.,georgia.ttf
+16,1,data/016_motion_blur_1.png,Рафалович сидів у кутку вагона другої класи.,arial.ttf
+16,3,data/016_motion_blur_3.png,Рафалович сидів у кутку вагона другої класи.,arial.ttf
+16,5,data/016_motion_blur_5.png,Рафалович сидів у кутку вагона другої класи.,arial.ttf
+16,7,data/016_motion_blur_7.png,Рафалович сидів у кутку вагона другої класи.,arial.ttf
+16,9,data/016_motion_blur_9.png,Рафалович сидів у кутку вагона другої класи.,arial.ttf
+16,11,data/016_motion_blur_11.png,Рафалович сидів у кутку вагона другої класи.,arial.ttf
+16,15,data/016_motion_blur_15.png,Рафалович сидів у кутку вагона другої класи.,arial.ttf
+17,1,data/017_motion_blur_1.png,Він вийшов з готелю оглянути своє нове місто.,times.ttf
+17,3,data/017_motion_blur_3.png,Він вийшов з готелю оглянути своє нове місто.,times.ttf
+17,5,data/017_motion_blur_5.png,Він вийшов з готелю оглянути своє нове місто.,times.ttf
+17,7,data/017_motion_blur_7.png,Він вийшов з готелю оглянути своє нове місто.,times.ttf
+17,9,data/017_motion_blur_9.png,Він вийшов з готелю оглянути своє нове місто.,times.ttf
+17,11,data/017_motion_blur_11.png,Він вийшов з готелю оглянути своє нове місто.,times.ttf
+17,15,data/017_motion_blur_15.png,Він вийшов з готелю оглянути своє нове місто.,times.ttf
+18,1,data/018_motion_blur_1.png,"Поїзд шумів, стугонів і котився чимраз скоріше.",calibri.ttf
+18,3,data/018_motion_blur_3.png,"Поїзд шумів, стугонів і котився чимраз скоріше.",calibri.ttf
+18,5,data/018_motion_blur_5.png,"Поїзд шумів, стугонів і котився чимраз скоріше.",calibri.ttf
+18,7,data/018_motion_blur_7.png,"Поїзд шумів, стугонів і котився чимраз скоріше.",calibri.ttf
+18,9,data/018_motion_blur_9.png,"Поїзд шумів, стугонів і котився чимраз скоріше.",calibri.ttf
+18,11,data/018_motion_blur_11.png,"Поїзд шумів, стугонів і котився чимраз скоріше.",calibri.ttf
+18,15,data/018_motion_blur_15.png,"Поїзд шумів, стугонів і котився чимраз скоріше.",calibri.ttf
+19,1,data/019_motion_blur_1.png,У пам'яті виринали картини минулих студентських літ.,georgia.ttf
+19,3,data/019_motion_blur_3.png,У пам'яті виринали картини минулих студентських літ.,georgia.ttf
+19,5,data/019_motion_blur_5.png,У пам'яті виринали картини минулих студентських літ.,georgia.ttf
+19,7,data/019_motion_blur_7.png,У пам'яті виринали картини минулих студентських літ.,georgia.ttf
+19,9,data/019_motion_blur_9.png,У пам'яті виринали картини минулих студентських літ.,georgia.ttf
+19,11,data/019_motion_blur_11.png,У пам'яті виринали картини минулих студентських літ.,georgia.ttf
+19,15,data/019_motion_blur_15.png,У пам'яті виринали картини минулих студентських літ.,georgia.ttf
+20,1,data/020_motion_blur_1.png,"Тепер теорія закінчилася, починалася щоденна праця.",arial.ttf
+20,3,data/020_motion_blur_3.png,"Тепер теорія закінчилася, починалася щоденна праця.",arial.ttf
+20,5,data/020_motion_blur_5.png,"Тепер теорія закінчилася, починалася щоденна праця.",arial.ttf
+20,7,data/020_motion_blur_7.png,"Тепер теорія закінчилася, починалася щоденна праця.",arial.ttf
+20,9,data/020_motion_blur_9.png,"Тепер теорія закінчилася, починалася щоденна праця.",arial.ttf
+20,11,data/020_motion_blur_11.png,"Тепер теорія закінчилася, починалася щоденна праця.",arial.ttf
+20,15,data/020_motion_blur_15.png,"Тепер теорія закінчилася, починалася щоденна праця.",arial.ttf
+21,1,data/021_motion_blur_1.png,Він прагнув боронити правду і справедливість у суді.,times.ttf
+21,3,data/021_motion_blur_3.png,Він прагнув боронити правду і справедливість у суді.,times.ttf
+21,5,data/021_motion_blur_5.png,Він прагнув боронити правду і справедливість у суді.,times.ttf
+21,7,data/021_motion_blur_7.png,Він прагнув боронити правду і справедливість у суді.,times.ttf
+21,9,data/021_motion_blur_9.png,Він прагнув боронити правду і справедливість у суді.,times.ttf
+21,11,data/021_motion_blur_11.png,Він прагнув боронити правду і справедливість у суді.,times.ttf
+21,15,data/021_motion_blur_15.png,Він прагнув боронити правду і справедливість у суді.,times.ttf
+22,1,data/022_motion_blur_1.png,Старовинні кам'яниці дивилися темними вікнами.,calibri.ttf
+22,3,data/022_motion_blur_3.png,Старовинні кам'яниці дивилися темними вікнами.,calibri.ttf
+22,5,data/022_motion_blur_5.png,Старовинні кам'яниці дивилися темними вікнами.,calibri.ttf
+22,7,data/022_motion_blur_7.png,Старовинні кам'яниці дивилися темними вікнами.,calibri.ttf
+22,9,data/022_motion_blur_9.png,Старовинні кам'яниці дивилися темними вікнами.,calibri.ttf
+22,11,data/022_motion_blur_11.png,Старовинні кам'яниці дивилися темними вікнами.,calibri.ttf
+22,15,data/022_motion_blur_15.png,Старовинні кам'яниці дивилися темними вікнами.,calibri.ttf
+23,1,data/023_motion_blur_1.png,Він найняв фіакра і поїхав до місцевого готелю.,georgia.ttf
+23,3,data/023_motion_blur_3.png,Він найняв фіакра і поїхав до місцевого готелю.,georgia.ttf
+23,5,data/023_motion_blur_5.png,Він найняв фіакра і поїхав до місцевого готелю.,georgia.ttf
+23,7,data/023_motion_blur_7.png,Він найняв фіакра і поїхав до місцевого готелю.,georgia.ttf
+23,9,data/023_motion_blur_9.png,Він найняв фіакра і поїхав до місцевого готелю.,georgia.ttf
+23,11,data/023_motion_blur_11.png,Він найняв фіакра і поїхав до місцевого готелю.,georgia.ttf
+23,15,data/023_motion_blur_15.png,Він найняв фіакра і поїхав до місцевого готелю.,georgia.ttf
+24,1,data/024_motion_blur_1.png,Новий день відкриває нові можливості для звершень.,arial.ttf
+24,3,data/024_motion_blur_3.png,Новий день відкриває нові можливості для звершень.,arial.ttf
+24,5,data/024_motion_blur_5.png,Новий день відкриває нові можливості для звершень.,arial.ttf
+24,7,data/024_motion_blur_7.png,Новий день відкриває нові можливості для звершень.,arial.ttf
+24,9,data/024_motion_blur_9.png,Новий день відкриває нові можливості для звершень.,arial.ttf
+24,11,data/024_motion_blur_11.png,Новий день відкриває нові можливості для звершень.,arial.ttf
+24,15,data/024_motion_blur_15.png,Новий день відкриває нові можливості для звершень.,arial.ttf
+25,1,data/025_motion_blur_1.png,Адвокатська контора чекала на перших відвідувачів.,times.ttf
+25,3,data/025_motion_blur_3.png,Адвокатська контора чекала на перших відвідувачів.,times.ttf
+25,5,data/025_motion_blur_5.png,Адвокатська контора чекала на перших відвідувачів.,times.ttf
+25,7,data/025_motion_blur_7.png,Адвокатська контора чекала на перших відвідувачів.,times.ttf
+25,9,data/025_motion_blur_9.png,Адвокатська контора чекала на перших відвідувачів.,times.ttf
+25,11,data/025_motion_blur_11.png,Адвокатська контора чекала на перших відвідувачів.,times.ttf
+25,15,data/025_motion_blur_15.png,Адвокатська контора чекала на перших відвідувачів.,times.ttf
+26,1,data/026_motion_blur_1.png,Згадалися гарячі дискусії про майбутнє народу.,calibri.ttf
+26,3,data/026_motion_blur_3.png,Згадалися гарячі дискусії про майбутнє народу.,calibri.ttf
+26,5,data/026_motion_blur_5.png,Згадалися гарячі дискусії про майбутнє народу.,calibri.ttf
+26,7,data/026_motion_blur_7.png,Згадалися гарячі дискусії про майбутнє народу.,calibri.ttf
+26,9,data/026_motion_blur_9.png,Згадалися гарячі дискусії про майбутнє народу.,calibri.ttf
+26,11,data/026_motion_blur_11.png,Згадалися гарячі дискусії про майбутнє народу.,calibri.ttf
+26,15,data/026_motion_blur_15.png,Згадалися гарячі дискусії про майбутнє народу.,calibri.ttf
+27,1,data/027_motion_blur_1.png,На вулицях уже чувся гомін щоденного ярмарку.,georgia.ttf
+27,3,data/027_motion_blur_3.png,На вулицях уже чувся гомін щоденного ярмарку.,georgia.ttf
+27,5,data/027_motion_blur_5.png,На вулицях уже чувся гомін щоденного ярмарку.,georgia.ttf
+27,7,data/027_motion_blur_7.png,На вулицях уже чувся гомін щоденного ярмарку.,georgia.ttf
+27,9,data/027_motion_blur_9.png,На вулицях уже чувся гомін щоденного ярмарку.,georgia.ttf
+27,11,data/027_motion_blur_11.png,На вулицях уже чувся гомін щоденного ярмарку.,georgia.ttf
+27,15,data/027_motion_blur_15.png,На вулицях уже чувся гомін щоденного ярмарку.,georgia.ttf
+28,1,data/028_motion_blur_1.png,За вікном блиснули перші міські ліхтарі.,arial.ttf
+28,3,data/028_motion_blur_3.png,За вікном блиснули перші міські ліхтарі.,arial.ttf
+28,5,data/028_motion_blur_5.png,За вікном блиснули перші міські ліхтарі.,arial.ttf
+28,7,data/028_motion_blur_7.png,За вікном блиснули перші міські ліхтарі.,arial.ttf
+28,9,data/028_motion_blur_9.png,За вікном блиснули перші міські ліхтарі.,arial.ttf
+28,11,data/028_motion_blur_11.png,За вікном блиснули перші міські ліхтарі.,arial.ttf
+28,15,data/028_motion_blur_15.png,За вікном блиснули перші міські ліхтарі.,arial.ttf
+29,1,data/029_motion_blur_1.png,Перон був майже порожній у цей пізній час.,times.ttf
+29,3,data/029_motion_blur_3.png,Перон був майже порожній у цей пізній час.,times.ttf
+29,5,data/029_motion_blur_5.png,Перон був майже порожній у цей пізній час.,times.ttf
+29,7,data/029_motion_blur_7.png,Перон був майже порожній у цей пізній час.,times.ttf
+29,9,data/029_motion_blur_9.png,Перон був майже порожній у цей пізній час.,times.ttf
+29,11,data/029_motion_blur_11.png,Перон був майже порожній у цей пізній час.,times.ttf
+29,15,data/029_motion_blur_15.png,Перон був майже порожній у цей пізній час.,times.ttf
+30,1,data/030_motion_blur_1.png,Ранок зустрів його яскравим холодним сонцем.,calibri.ttf
+30,3,data/030_motion_blur_3.png,Ранок зустрів його яскравим холодним сонцем.,calibri.ttf
+30,5,data/030_motion_blur_5.png,Ранок зустрів його яскравим холодним сонцем.,calibri.ttf
+30,7,data/030_motion_blur_7.png,Ранок зустрів його яскравим холодним сонцем.,calibri.ttf
+30,9,data/030_motion_blur_9.png,Ранок зустрів його яскравим холодним сонцем.,calibri.ttf
+30,11,data/030_motion_blur_11.png,Ранок зустрів його яскравим холодним сонцем.,calibri.ttf
+30,15,data/030_motion_blur_15.png,Ранок зустрів його яскравим холодним сонцем.,calibri.ttf
+31,1,data/031_motion_blur_1.png,Він дивився у вікно на вечірній краєвид Поділля.,georgia.ttf
+31,3,data/031_motion_blur_3.png,Він дивився у вікно на вечірній краєвид Поділля.,georgia.ttf
+31,5,data/031_motion_blur_5.png,Він дивився у вікно на вечірній краєвид Поділля.,georgia.ttf
+31,7,data/031_motion_blur_7.png,Він дивився у вікно на вечірній краєвид Поділля.,georgia.ttf
+31,9,data/031_motion_blur_9.png,Він дивився у вікно на вечірній краєвид Поділля.,georgia.ttf
+31,11,data/031_motion_blur_11.png,Він дивився у вікно на вечірній краєвид Поділля.,georgia.ttf
+31,15,data/031_motion_blur_15.png,Він дивився у вікно на вечірній краєвид Поділля.,georgia.ttf
+32,1,data/032_motion_blur_1.png,З цими думками Євгеній нарешті міцно заснув.,arial.ttf
+32,3,data/032_motion_blur_3.png,З цими думками Євгеній нарешті міцно заснув.,arial.ttf
+32,5,data/032_motion_blur_5.png,З цими думками Євгеній нарешті міцно заснув.,arial.ttf
+32,7,data/032_motion_blur_7.png,З цими думками Євгеній нарешті міцно заснув.,arial.ttf
+32,9,data/032_motion_blur_9.png,З цими думками Євгеній нарешті міцно заснув.,arial.ttf
+32,11,data/032_motion_blur_11.png,З цими думками Євгеній нарешті міцно заснув.,arial.ttf
+32,15,data/032_motion_blur_15.png,З цими думками Євгеній нарешті міцно заснув.,arial.ttf
+33,1,data/033_motion_blur_1.png,"Готель був тихий, із запахом старого дерева.",times.ttf
+33,3,data/033_motion_blur_3.png,"Готель був тихий, із запахом старого дерева.",times.ttf
+33,5,data/033_motion_blur_5.png,"Готель був тихий, із запахом старого дерева.",times.ttf
+33,7,data/033_motion_blur_7.png,"Готель був тихий, із запахом старого дерева.",times.ttf
+33,9,data/033_motion_blur_9.png,"Готель був тихий, із запахом старого дерева.",times.ttf
+33,11,data/033_motion_blur_11.png,"Готель був тихий, із запахом старого дерева.",times.ttf
+33,15,data/033_motion_blur_15.png,"Готель був тихий, із запахом старого дерева.",times.ttf
+34,1,data/034_motion_blur_1.png,Терпеливість і витримка долають найважчі обставини.,calibri.ttf
+34,3,data/034_motion_blur_3.png,Терпеливість і витримка долають найважчі обставини.,calibri.ttf
+34,5,data/034_motion_blur_5.png,Терпеливість і витримка долають найважчі обставини.,calibri.ttf
+34,7,data/034_motion_blur_7.png,Терпеливість і витримка долають найважчі обставини.,calibri.ttf
+34,9,data/034_motion_blur_9.png,Терпеливість і витримка долають найважчі обставини.,calibri.ttf
+34,11,data/034_motion_blur_11.png,Терпеливість і витримка долають найважчі обставини.,calibri.ttf
+34,15,data/034_motion_blur_15.png,Терпеливість і витримка долають найважчі обставини.,calibri.ttf
+35,1,data/035_motion_blur_1.png,Кожен день вимагав повної віддачі сил та енергії.,georgia.ttf
+35,3,data/035_motion_blur_3.png,Кожен день вимагав повної віддачі сил та енергії.,georgia.ttf
+35,5,data/035_motion_blur_5.png,Кожен день вимагав повної віддачі сил та енергії.,georgia.ttf
+35,7,data/035_motion_blur_7.png,Кожен день вимагав повної віддачі сил та енергії.,georgia.ttf
+35,9,data/035_motion_blur_9.png,Кожен день вимагав повної віддачі сил та енергії.,georgia.ttf
+35,11,data/035_motion_blur_11.png,Кожен день вимагав повної віддачі сил та енергії.,georgia.ttf
+35,15,data/035_motion_blur_15.png,Кожен день вимагав повної віддачі сил та енергії.,georgia.ttf
+36,1,data/036_motion_blur_1.png,Містечко жило повільним провінційним життям.,arial.ttf
+36,3,data/036_motion_blur_3.png,Містечко жило повільним провінційним життям.,arial.ttf
+36,5,data/036_motion_blur_5.png,Містечко жило повільним провінційним життям.,arial.ttf
+36,7,data/036_motion_blur_7.png,Містечко жило повільним провінційним життям.,arial.ttf
+36,9,data/036_motion_blur_9.png,Містечко жило повільним провінційним життям.,arial.ttf
+36,11,data/036_motion_blur_11.png,Містечко жило повільним провінційним життям.,arial.ttf
+36,15,data/036_motion_blur_15.png,Містечко жило повільним провінційним життям.,arial.ttf
+37,1,data/037_motion_blur_1.png,Євгеній узяв свій невеликий чемодан і підвівся.,times.ttf
+37,3,data/037_motion_blur_3.png,Євгеній узяв свій невеликий чемодан і підвівся.,times.ttf
+37,5,data/037_motion_blur_5.png,Євгеній узяв свій невеликий чемодан і підвівся.,times.ttf
+37,7,data/037_motion_blur_7.png,Євгеній узяв свій невеликий чемодан і підвівся.,times.ttf
+37,9,data/037_motion_blur_9.png,Євгеній узяв свій невеликий чемодан і підвівся.,times.ttf
+37,11,data/037_motion_blur_11.png,Євгеній узяв свій невеликий чемодан і підвівся.,times.ttf
+37,15,data/037_motion_blur_15.png,Євгеній узяв свій невеликий чемодан і підвівся.,times.ttf
+38,1,data/038_motion_blur_1.png,Він відчував у собі силу і непохитну віру.,calibri.ttf
+38,3,data/038_motion_blur_3.png,Він відчував у собі силу і непохитну віру.,calibri.ttf
+38,5,data/038_motion_blur_5.png,Він відчував у собі силу і непохитну віру.,calibri.ttf
+38,7,data/038_motion_blur_7.png,Він відчував у собі силу і непохитну віру.,calibri.ttf
+38,9,data/038_motion_blur_9.png,Він відчував у собі силу і непохитну віру.,calibri.ttf
+38,11,data/038_motion_blur_11.png,Він відчував у собі силу і непохитну віру.,calibri.ttf
+38,15,data/038_motion_blur_15.png,Він відчував у собі силу і непохитну віру.,calibri.ttf
+39,1,data/039_motion_blur_1.png,Колеса глухо стукотіли по кам'яній бруківці.,georgia.ttf
+39,3,data/039_motion_blur_3.png,Колеса глухо стукотіли по кам'яній бруківці.,georgia.ttf
+39,5,data/039_motion_blur_5.png,Колеса глухо стукотіли по кам'яній бруківці.,georgia.ttf
+39,7,data/039_motion_blur_7.png,Колеса глухо стукотіли по кам'яній бруківці.,georgia.ttf
+39,9,data/039_motion_blur_9.png,Колеса глухо стукотіли по кам'яній бруківці.,georgia.ttf
+39,11,data/039_motion_blur_11.png,Колеса глухо стукотіли по кам'яній бруківці.,georgia.ttf
+39,15,data/039_motion_blur_15.png,Колеса глухо стукотіли по кам'яній бруківці.,georgia.ttf
