@@ -1,0 +1,546 @@
+[
+  {
+    "file_name": "page01.jpg",
+    "image_sha256": "a6c643b6eb61486b77746ec7d1ff9f696f84d9631303f5152c63542c5a86e7ab",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 14:01:46"
+    },
+    "ocr_pipeline": {
+      "engine": "EasyOCR",
+      "engine_version": "1.7.2",
+      "parameters": {
+        "lang": [
+          "uk",
+          "en"
+        ],
+        "prep": "raw",
+        "decoder": "greedy"
+      },
+      "processing_time_sec": 7.9203,
+      "confidence": 0.2605
+    },
+    "recognition_metrics": {
+      "cer": 0.8353,
+      "wer": 1.0
+    },
+    "extracted_text": "~ (rotyy/ (XtAJ\" IkZsd 'Ceeze xe \"9нсльбu \" 754+\"14+ ~Ґф \"Kж Kyax Я \"K<4 \"Еs Jxcketva _ It (etс?сec {2/J/ %vetter Zvz Cewlc CtW 77/ 7 4 ^ Тум~ (uios /2 'еvоc ( уvcт-Уx Лм} kJ CeJ # ke~с> хоум ~ ~(& 7r0i [oє _ СРу д- (eJwex COZc Ka tctve Tu Zcl &z Zi \"*6' ФМок2 $622 +Яе ?  0ч2л 2АсучI~€ \"Ея ~7e82 06 - oeфwz; Q 5, u &су-ске - ke -(tzo ( Qмzv , '%i ЧЄ 0t71 ? 026",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page01.jpg",
+    "image_sha256": "a6c643b6eb61486b77746ec7d1ff9f696f84d9631303f5152c63542c5a86e7ab",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 14:01:46"
+    },
+    "ocr_pipeline": {
+      "engine": "Tesseract",
+      "engine_version": "5.5.3.20260724",
+      "parameters": {
+        "psm": 6,
+        "lang": "ukr+eng",
+        "oem": 1,
+        "prep": "raw"
+      },
+      "processing_time_sec": 0.5223,
+      "confidence": 0.36
+    },
+    "recognition_metrics": {
+      "cer": 0.8843,
+      "wer": 0.9878
+    },
+    "extracted_text": "і 7 : . | 7 Thi ай 7 а: BAR 4 ую нн ЕРА вно бо . POA. Ce и BFA ee \" ЛУ ert YI to | дроти. a Labpug (er, Tg б 2026",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page01.jpg",
+    "image_sha256": "a6c643b6eb61486b77746ec7d1ff9f696f84d9631303f5152c63542c5a86e7ab",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 14:01:46"
+    },
+    "ocr_pipeline": {
+      "engine": "EasyOCR",
+      "engine_version": "1.7.2",
+      "parameters": {
+        "lang": [
+          "uk",
+          "en"
+        ],
+        "prep": "adaptive",
+        "decoder": "greedy"
+      },
+      "processing_time_sec": 7.1265,
+      "confidence": 0.2835
+    },
+    "recognition_metrics": {
+      "cer": 0.849,
+      "wer": 1.0
+    },
+    "extracted_text": "(4{,+к%о (toke ( & Wlezx_ea WJI x{ с97 { t,e , Wж* 5ar & 'ttZc*Ttt Kxd ' *tzcket Jxx'C1^ ; PJua 9x-~iait /~cte ;ч Яktx 2/x Тм (иc> 'qvctv+ gucfx )\"; {-J~ Ce z \"rе = 49р&жО& ~21м ~ rrCi [чо&  (Jex С,иу; 4a2ejvt 22 T voo Zc Lc  '1& 462' Ф~Чноко Kwe 6~2  2IotIze (5 4Li tv> & С 'PeNw ?М {  Uerrois= \"rc ke/-ttxt Owv  'ij Ч6 сi2Q2є",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page01.jpg",
+    "image_sha256": "a6c643b6eb61486b77746ec7d1ff9f696f84d9631303f5152c63542c5a86e7ab",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 14:01:46"
+    },
+    "ocr_pipeline": {
+      "engine": "Tesseract",
+      "engine_version": "5.5.3.20260724",
+      "parameters": {
+        "psm": 6,
+        "lang": "ukr+eng",
+        "oem": 1,
+        "prep": "adaptive"
+      },
+      "processing_time_sec": 0.3106,
+      "confidence": 0.43
+    },
+    "recognition_metrics": {
+      "cer": 0.9941,
+      "wer": 1.0
+    },
+    "extracted_text": "~ Oe ae Ee",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page02.jpg",
+    "image_sha256": "f0deea367553c402178e842abe4a2755e1393303a769000e2d4c8e637e32c20a",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 17:10:39"
+    },
+    "ocr_pipeline": {
+      "engine": "EasyOCR",
+      "engine_version": "1.7.2",
+      "parameters": {
+        "lang": [
+          "uk",
+          "en"
+        ],
+        "prep": "raw",
+        "decoder": "greedy"
+      },
+      "processing_time_sec": 7.468,
+      "confidence": 0.2724
+    },
+    "recognition_metrics": {
+      "cer": 0.8431,
+      "wer": 1.0
+    },
+    "extracted_text": "''с \" (+'ctw( Ctcy ( IcwYs] Фbфс cWoCwt Сиt e . 75576ж\" 474  %i7 'CcuLc?ecc ' :` Cоv K JdД 7 Jxokevd: Ks stsi Яeбtzcke 1+Jy gpszах /&9 Cewe Crvwit Л3& ?0 (ихс Тум~~ {CorJW% /22L Л kJ Cezeu \"5я4 kgevoicv zrd ноРм ~ pи Qu %Ldq Ioє  IvJex 1 vow Хo !icc; 'J Zi& i* wMvok& {~22Pceсяе саа5 T M~ 2+7e24 Ocioke- Яіwwz' Kej- (tto Td 'о9/4р4 Qмew , 'ij Ч6 Оt712026",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page02.jpg",
+    "image_sha256": "f0deea367553c402178e842abe4a2755e1393303a769000e2d4c8e637e32c20a",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 17:10:39"
+    },
+    "ocr_pipeline": {
+      "engine": "Tesseract",
+      "engine_version": "5.5.3.20260724",
+      "parameters": {
+        "psm": 6,
+        "lang": "ukr+eng",
+        "oem": 1,
+        "prep": "raw"
+      },
+      "processing_time_sec": 0.4349,
+      "confidence": 0.26
+    },
+    "recognition_metrics": {
+      "cer": 0.9471,
+      "wer": 1.0
+    },
+    "extracted_text": "OY bt Koro 1 Kepcbtoto “\" abjuag (oer, Чім Of 2026 НН Senne ee es рен НО Seat ee fo EE 5",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page02.jpg",
+    "image_sha256": "f0deea367553c402178e842abe4a2755e1393303a769000e2d4c8e637e32c20a",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 17:10:39"
+    },
+    "ocr_pipeline": {
+      "engine": "EasyOCR",
+      "engine_version": "1.7.2",
+      "parameters": {
+        "lang": [
+          "uk",
+          "en"
+        ],
+        "prep": "adaptive",
+        "decoder": "greedy"
+      },
+      "processing_time_sec": 6.993,
+      "confidence": 0.2209
+    },
+    "recognition_metrics": {
+      "cer": 0.8373,
+      "wer": 1.0
+    },
+    "extracted_text": "\"5'z6 Kx:kwVzя сvх(Wt ',/';{4 2 . t'i.Zc iксt (utь Iica  0 ho- Сьзн JrctreJчya '\"4 Ze Яeltaa 21.uс4 Zчz Я\" ui& (JЧeоz Тіх \"Ш~* Iz&_ Жрсосз ZU cфvt Jv\" h-Jеv Ce u \"оq zeжZ& \"fнzz Kettu Iat СФл [оє  vev [o[eivt 2 & &z; {\"2яЛя \"J '1 4et Фчке_ ~ 4r~е ,42785 'S K,8 Jсlоc [~(txo Ojx, %i Ч6 01.112026",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page02.jpg",
+    "image_sha256": "f0deea367553c402178e842abe4a2755e1393303a769000e2d4c8e637e32c20a",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 17:10:39"
+    },
+    "ocr_pipeline": {
+      "engine": "Tesseract",
+      "engine_version": "5.5.3.20260724",
+      "parameters": {
+        "psm": 6,
+        "lang": "ukr+eng",
+        "oem": 1,
+        "prep": "adaptive"
+      },
+      "processing_time_sec": 0.3094,
+      "confidence": 0.431
+    },
+    "recognition_metrics": {
+      "cer": 0.9569,
+      "wer": 0.9878
+    },
+    "extracted_text": "ха до we 1 Maly ол, ЧІ OF 11 2026",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page03.jpg",
+    "image_sha256": "2effc8a5c052d5c8e821d00ec9dc3d875344b5b24d3dd4a095e97a9f13e52f04",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 17:33:46"
+    },
+    "ocr_pipeline": {
+      "engine": "EasyOCR",
+      "engine_version": "1.7.2",
+      "parameters": {
+        "lang": [
+          "uk",
+          "en"
+        ],
+        "prep": "raw",
+        "decoder": "greedy"
+      },
+      "processing_time_sec": 8.6618,
+      "confidence": 0.2455
+    },
+    "recognition_metrics": {
+      "cer": 0.8294,
+      "wer": 1.0
+    },
+    "extracted_text": "{Ss Cxtev СЖк;+сьоt (w Ncb YL% с27t,2 . (wt 's %i4 Qev ес7zc eattc+ Zu_a < \"%siz 7& Фeeсzсuve zo ~0 уч?2 2ч eс& 272 Z2oт {~~& %+с&& CeчLc Qle 22+q '; (uи & 2сс  ~~&  klJev Ce Zx 2*6Ж\"  н22,~ 4&reхL2 && Ye_zex (L 7rc zoe c ~+~ Iaл& #&фа Zл Cozc xьe %;сe еv& xi  &w yvотe 2а 4. ? J42 7e2 {Ятрьдче 35zе > 25+2+40 Фьsic: Sovore- cu 7 нe(-tocо O , 9i Ч6 0+.11. 202.6",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page03.jpg",
+    "image_sha256": "2effc8a5c052d5c8e821d00ec9dc3d875344b5b24d3dd4a095e97a9f13e52f04",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 17:33:46"
+    },
+    "ocr_pipeline": {
+      "engine": "Tesseract",
+      "engine_version": "5.5.3.20260724",
+      "parameters": {
+        "psm": 6,
+        "lang": "ukr+eng",
+        "oem": 1,
+        "prep": "raw"
+      },
+      "processing_time_sec": 0.5903,
+      "confidence": 0.3876
+    },
+    "recognition_metrics": {
+      "cer": 0.8922,
+      "wer": 0.9878
+    },
+    "extracted_text": "72 5 (oxy be б - - —f— 7 жи У собу бо Я Й —— —= CLOZo le 2 | BMG. ee ATER AL М, ( 7 \"ЗМ в СИР (A С WAY / iis ope TOTO. (Ca er, ЛУ 6 O44 202s nn",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page03.jpg",
+    "image_sha256": "2effc8a5c052d5c8e821d00ec9dc3d875344b5b24d3dd4a095e97a9f13e52f04",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 17:33:46"
+    },
+    "ocr_pipeline": {
+      "engine": "EasyOCR",
+      "engine_version": "1.7.2",
+      "parameters": {
+        "lang": [
+          "uk",
+          "en"
+        ],
+        "prep": "adaptive",
+        "decoder": "greedy"
+      },
+      "processing_time_sec": 8.4776,
+      "confidence": 0.294
+    },
+    "recognition_metrics": {
+      "cer": 0.8353,
+      "wer": 1.0
+    },
+    "extracted_text": "'у <xc;J < (ig-#KeWz Icozw(ч 2сx& \"P 7cz 22r*ь '~о*Чре N4ca <_ 9а о2е 4oz Jicteci 772 12 c (с_ 9с.2*ь& & €eJLeyоz_ 226 % Кух_ & 2~* (uис& 2+оe / & kz ~u Ce & ?091iя 'LeT~te& Дж~ ~92+ . 4gLevьe zCL_ 4 Cd Lvoz & CА Cvoz xe2e;се 44; Zu Zo Cc- I  &x Чcoz& C2 , Z oxet Кетie 2272 Lc  Я2l&ms Яplu Иeу(tzc 9i3ЧЄ 0*,.112026",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page03.jpg",
+    "image_sha256": "2effc8a5c052d5c8e821d00ec9dc3d875344b5b24d3dd4a095e97a9f13e52f04",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 17:33:46"
+    },
+    "ocr_pipeline": {
+      "engine": "Tesseract",
+      "engine_version": "5.5.3.20260724",
+      "parameters": {
+        "psm": 6,
+        "lang": "ukr+eng",
+        "oem": 1,
+        "prep": "adaptive"
+      },
+      "processing_time_sec": 0.3592,
+      "confidence": 0.4008
+    },
+    "recognition_metrics": {
+      "cer": 0.9608,
+      "wer": 1.0
+    },
+    "extracted_text": "1 GE, ом о =} — tobpug (her, че OF 14.2026 | TT",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page04.jpg",
+    "image_sha256": "39943e24f8f0009fcd43a4107ff13308c320e7f3740facc178cf4f417a1c5445",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 18:07:05"
+    },
+    "ocr_pipeline": {
+      "engine": "EasyOCR",
+      "engine_version": "1.7.2",
+      "parameters": {
+        "lang": [
+          "uk",
+          "en"
+        ],
+        "prep": "raw",
+        "decoder": "greedy"
+      },
+      "processing_time_sec": 6.4254,
+      "confidence": 0.3647
+    },
+    "recognition_metrics": {
+      "cer": 0.7782,
+      "wer": 0.98
+    },
+    "extracted_text": "Vе %4 576 t d wv {ev' ж v1 to \"8Х*48 ( ~e t 'e22e, ck] V& {е ;& \"'H~pt dеzиvi [кex '\"вар Zo~е& е &1 v~ Идly ec% Qtef PZ ЧG 0411202.6",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": null
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": false,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  },
+  {
+    "file_name": "page04.jpg",
+    "image_sha256": "39943e24f8f0009fcd43a4107ff13308c320e7f3740facc178cf4f417a1c5445",
+    "metadata": {
+      "camera_model": "Redmi Note 14",
+      "datetime_taken": "2026:11:07 18:07:05"
+    },
+    "ocr_pipeline": {
+      "engine": "TrOCR",
+      "engine_version": "5.22.2",
+      "parameters": {
+        "model": "microsoft/trocr-base-handwritten",
+        "segmenter": "CRAFT"
+      },
+      "processing_time_sec": 21.521,
+      "confidence": 0.95
+    },
+    "recognition_metrics": {
+      "cer": 0.821,
+      "wer": 1.08
+    },
+    "extracted_text": "the # being the first appearance to do wrote . decline flirting . ligs . to a member of the American Parliament of the American Parliament of the American Parliament of the meg to a smallpox cing the their loyd duceums . replicie . \" Everything to chance , tut . if ichnest always . back oileh . pzag 07.11.2026",
+    "structured_data": {
+      "author": null,
+      "group": null,
+      "date": "2026-11-07"
+    },
+    "quality_control": {
+      "validation_rules": {
+        "date_valid": true,
+        "group_valid": false,
+        "author_valid": false
+      },
+      "needs_review": true
+    }
+  }
+]
